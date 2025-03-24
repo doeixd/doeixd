@@ -17,3 +17,8 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Emai
 - [**CSS Reset**](https://github.com/doeixd/CSS-Reset) - A very opioninated CSS Reset
 - [**effectively**](https://github.com/doeixd/effectively) - Lightweight effect system for TypeScript *(Work in progress)*
 - [**annette**](https://github.com/doeixd/annette) - JavaScript library based on interaction nets *(Work in progress)*
+
+## Apps
+- [**Wordle Vanilla**](https://github.com/doeixd/Wordle-Vanilla) - Wordle clone in vanilla js, back when that was popping off 
+- [**Tbbr**](https://github.com/doeixd/Tbbr) - A hastily made Chrome extension that sorts tabs by last recently accessed
+- [**UPC App**]](https://github.com/doeixd/upc-app) - An electron app to aide an managing upc codes *(Work in progress)*
