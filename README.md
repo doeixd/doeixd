@@ -21,4 +21,4 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Emai
 ## Apps
 - [**Wordle Vanilla**](https://github.com/doeixd/Wordle-Vanilla) - Wordle clone in vanilla js, back when that was popping off 
 - [**Tbbr**](https://github.com/doeixd/Tbbr) - A hastily made Chrome extension that sorts tabs by last recently accessed
-- [**UPC App**]](https://github.com/doeixd/upc-app) - An electron app to aide an managing upc codes *(Work in progress)*
+- [**UPC App**](https://github.com/doeixd/upc-app) - An electron app to aide an managing upc codes *(Work in progress)*
