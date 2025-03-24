@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Patrick 👋
+I'm a full-stack developer with a passion for JavaScript, the Web, and creating intuitive developer tools and libraries.
+From playing trumpet to TypeScript, I've always been drawn to both technical precision and creative expression. I strive to build abstractions that make the complex feel straightforward and natural.
+When the code editor is closed, you'll find me perfecting recipes, exploring city streets, or learning new technologies.
 
-<!--
-**doeixd/doeixd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Email](mailto:pwmglenn@outlook.com) | [Resume](https://hackmd.io/@patrickg/SkBq-_lV1l)
 
-Here are some ideas to get you started:
+## Some libraries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**watch**](https://github.com/doeixd/watch) - Minimalist web components alternative
+- [**named-args**](https://github.com/doeixd/named-args) - Named arguments for TypeScript functions
+- [**create-converter**](https://github.com/doeixd/create-converter) - Type-safe object transformations
+- [**csv-utils**](https://github.com/doeixd/csv-utils) - Type-safe CSV manipulation
+- [**create-virtualized-list-solid**](https://github.com/doeixd/create-virtualized-list-solid) - Better virtualized lists for Solid
+- [**create-infinite-resource-solid**](https://github.com/doeixd/create-infinite-resource-solid) - Pagination primitive for Solid
+- [**make-with**](https://github.com/doeixd/make-with) - Functional composition utilities
+- [**effectively**](https://github.com/doeixd/effectively) - Lightweight effect system for TypeScript *(Work in progress)*
+- [**annette**](https://github.com/doeixd/annette) - JavaScript library based on interaction nets *(Work in progress)*
