@@ -3,7 +3,7 @@ I'm a full-stack developer with a passion for JavaScript, the Web, and creating 
 From playing trumpet to TypeScript, I've always been drawn to both technical precision and creative expression. I strive to build abstractions that make the complex feel straightforward and natural.
 When the code editor is closed, you'll find me perfecting recipes, exploring city streets, or learning new technologies.
 
-Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Email](mailto:pwmglenn@outlook.com) | [Resume](https://hackmd.io/@patrickg/SkBq-_lV1l)
+Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resume](https://hackmd.io/@patrickg/SkBq-_lV1l)
 
 ## Some libraries
 
