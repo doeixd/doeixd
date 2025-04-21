@@ -8,7 +8,7 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resu
 ## Some libraries
 
 - [**watch**](https://github.com/doeixd/watch) - Minimalist web components alternative
-- [**named-args**](https://github.com/doeixd/named-args) - Named arguments for TypeScript functions
+- [**named-args**](https://github.com/doeixd/named-arguments) - Named arguments for TypeScript functions
 - [**create-converter**](https://github.com/doeixd/create-converter) - Type-safe object transformations
 - [**csv-utils**](https://github.com/doeixd/csv-utils) - Type-safe CSV manipulation
 - [**create-virtualized-list-solid**](https://github.com/doeixd/create-virtualized-list-solid) - Better virtualized lists for Solid
