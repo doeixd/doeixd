@@ -18,7 +18,7 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resu
 - [**effectively**](https://github.com/doeixd/effectively) - Lightweight effect system for TypeScript *(Work in progress)*
 - [**annette**](https://github.com/doeixd/annette) - JavaScript library based on interaction nets *(Work in progress)*
 - [**Combi Router**](https://github.com/doeixd/combi-router) - A composable client router, built on parser combinators
-- [**Combi Parse**](https://github.com/doeixd/combi-parse) - A Typs-safe, friendly parser combinator library for TypeScript.
+- [**Combi Parse**](https://github.com/doeixd/combi-parse) - A Type-safe, friendly parser combinator library for TypeScript.
 
 
 ## Apps
