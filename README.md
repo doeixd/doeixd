@@ -19,6 +19,7 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resu
 - [**annette**](https://github.com/doeixd/annette) - JavaScript library based on interaction nets *(Work in progress)*
 - [**Combi Router**](https://github.com/doeixd/combi-router) - A composable client router, built on parser combinators
 - [**Combi Parse**](https://github.com/doeixd/combi-parse) - A Type-safe, friendly parser combinator library for TypeScript.
+- [**TanStackDB Triplit**](https://github.com/doeixd/triplit-tanstackdb) - A collection generator for TanStack DB powered by [Triplit](https://triplit.dev).
 
 
 ## Apps
