@@ -20,7 +20,9 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resu
 - [**Combi Router**](https://github.com/doeixd/combi-router) - A composable client router, built on parser combinators
 - [**Combi Parse**](https://github.com/doeixd/combi-parse) - A Type-safe, friendly parser combinator library for TypeScript.
 - [**TanStackDB Triplit**](https://github.com/doeixd/triplit-tanstackdb) - A collection generator for TanStack DB powered by [Triplit](https://triplit.dev).
-- [**Parse Shopify CSV**](https://github.com/doeixd/parse-shopify-csv) - Some simple helpers to aid in dealing with common tasks related to Shopify Product Export CSV files. 
+- [**Parse Shopify CSV**](https://github.com/doeixd/parse-shopify-csv) - Some simple helpers to aid in dealing with common tasks related to Shopify Product Export CSV files.
+- [**Scoped Focusgroup Polyfill**](https://github.com/scoped-focusgroup-polyfill) - A polyfill for the [Scoped Focusgroup Proposal](https://open-ui.org/components/scoped-focusgroup.explainer/)
+- [**Invokers**](github.com/doeixd/invokers) - A superset of the new [Invokers](https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API) api / proposals.
 
 
 ## Apps
