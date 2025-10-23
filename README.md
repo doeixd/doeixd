@@ -14,6 +14,7 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resu
 - [**create-virtualized-list-solid**](https://github.com/doeixd/create-virtualized-list-solid) - Better virtualized lists for Solid
 - [**create-infinite-resource-solid**](https://github.com/doeixd/create-infinite-resource-solid) - Pagination primitive for Solid
 - [**make-with**](https://github.com/doeixd/make-with) - Functional composition utilities / alternative to classes/modules
+- [**CSS Tags**](https://github.com/doeixd/CSS-Tags) - HTML Tags for styling your app
 - [**CSS Reset**](https://github.com/doeixd/CSS-Reset) - A very opioninated CSS Reset
 - [**effectively**](https://github.com/doeixd/effectively) - Lightweight effect system for TypeScript 
 - [**annette**](https://github.com/doeixd/annette) - JavaScript library based on interaction nets *(Work in progress)*
