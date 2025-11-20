@@ -27,6 +27,7 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resu
 - [**GPUI-TS**](https://github.com/doeixd/GPUI-TS) - An experiment in bringing a gpui-like architecture to TypeScript.
 - [**Events**](https://github.com/doeixd/events) - An events library inspired by Remix Events and Solid-Events.
 - [**Machine**](https://github.com/doeixd/machine) - A minimal state machine library influenced by Type-State programming.
+- [**DOM**](https://github.com/doeixd/dom) - A handy bag of DOM / frontent utilities like a functional jQuery
 
 
 ## Apps
