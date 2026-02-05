@@ -7,23 +7,23 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resu
 
 ## Some libraries
 
-- [**watch**](https://github.com/doeixd/watch) - Minimalist web components alternative
+- [**csv-utils**](https://github.com/doeixd/csv-utils) - Type-safe CSV manipulation
+- [**effectively**](https://github.com/doeixd/effectively) - Lightweight effect system for TypeScript 
+- [**Invokers**](https://github.com/doeixd/invokers) - A superset of the new [Invokers](https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API) api / proposals.
 - [**named-args**](https://github.com/doeixd/named-arguments) - Named arguments for TypeScript functions
 - [**create-converter**](https://github.com/doeixd/create-converter) - Type-safe object transformations
-- [**csv-utils**](https://github.com/doeixd/csv-utils) - Type-safe CSV manipulation
 - [**create-virtualized-list-solid**](https://github.com/doeixd/create-virtualized-list-solid) - Better virtualized lists for Solid
 - [**create-infinite-resource-solid**](https://github.com/doeixd/create-infinite-resource-solid) - Pagination primitive for Solid
 - [**make-with**](https://github.com/doeixd/make-with) - Functional composition utilities / alternative to classes/modules
+- [**watch**](https://github.com/doeixd/watch) - Minimalist web components alternative
 - [**CSS Tags**](https://github.com/doeixd/CSS-Tags) - HTML Tags for styling your app
 - [**CSS Reset**](https://github.com/doeixd/CSS-Reset) - A very opioninated CSS Reset
-- [**effectively**](https://github.com/doeixd/effectively) - Lightweight effect system for TypeScript 
 - [**annette**](https://github.com/doeixd/annette) - JavaScript library based on interaction nets *(Work in progress)*
 - [**Combi Router**](https://github.com/doeixd/combi-router) - A composable client router, built on parser combinators
 - [**Combi Parse**](https://github.com/doeixd/combi-parse) - A Type-safe, friendly parser combinator library for TypeScript.
 - [**TanStackDB Triplit**](https://github.com/doeixd/triplit-tanstackdb) - A collection generator for TanStack DB powered by [Triplit](https://triplit.dev).
 - [**Parse Shopify CSV**](https://github.com/doeixd/parse-shopify-csv) - Some simple helpers to aid in dealing with common tasks related to Shopify Product Export CSV files.
 - [**Scoped Focusgroup Polyfill**](https://github.com/doeixd/scoped-focusgroup-polyfill) - A polyfill for the [Scoped Focusgroup Proposal](https://open-ui.org/components/scoped-focusgroup.explainer/)
-- [**Invokers**](https://github.com/doeixd/invokers) - A superset of the new [Invokers](https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API) api / proposals.
 - [**GPUI-TS**](https://github.com/doeixd/GPUI-TS) - An experiment in bringing a gpui-like architecture to TypeScript.
 - [**Events**](https://github.com/doeixd/events) - An events library inspired by Remix Events and Solid-Events.
 - [**Machine**](https://github.com/doeixd/machine) - A minimal state machine library influenced by Type-State programming.
