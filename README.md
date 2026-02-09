@@ -14,6 +14,7 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resu
 - [**create-converter**](https://github.com/doeixd/create-converter) - Type-safe object transformations
 - [**create-virtualized-list-solid**](https://github.com/doeixd/create-virtualized-list-solid) - Better virtualized lists for Solid
 - [**create-infinite-resource-solid**](https://github.com/doeixd/create-infinite-resource-solid) - Pagination primitive for Solid
+- [**jotai-solid-api**](https://github.com/doeixd/jotai-solid-api) - Solid-style reactive primitives on top of jotai/vanilla for use in React
 - [**make-with**](https://github.com/doeixd/make-with) - Functional composition utilities / alternative to classes/modules
 - [**watch**](https://github.com/doeixd/watch) - Minimalist web components alternative
 - [**CSS Tags**](https://github.com/doeixd/CSS-Tags) - HTML Tags for styling your app
