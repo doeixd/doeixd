@@ -29,6 +29,7 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resu
 - [**Events**](https://github.com/doeixd/events) - An events library inspired by Remix Events and Solid-Events.
 - [**Machine**](https://github.com/doeixd/machine) - A minimal state machine library influenced by Type-State programming.
 - [**DOM**](https://github.com/doeixd/dom) - A handy bag of DOM / frontent utilities like a functional jQuery
+- [**Passkey Magic**](https://github.com/doeixd/passkey-magic/tree/master?tab=readme-ov-file#passkey-magic) - A passkey based auth framework, no more fiddling with passwords.
 
 
 ## Apps
