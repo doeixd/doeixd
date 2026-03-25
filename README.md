@@ -33,8 +33,8 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resu
 
 
 ## Apps
-- [**One Billion Checkboxes**](https://github.com/doeixd/one-billion-checkboxes-spacetime) - A version of the popular [One Million Checkboxes](https://onemillioncheckboxes.com/) using SpacetimeDB and Solid 2.0
+- [**One Billion Checkboxes**](https://github.com/doeixd/one-billion-checkboxes-spacetime/tree/main?tab=readme-ov-file#one-billion-checkboxes) - A version of the popular [One Million Checkboxes](https://onemillioncheckboxes.com/) using SpacetimeDB and Solid 2.0
 - [**Wordle Vanilla**](https://github.com/doeixd/Wordle-Vanilla) - Wordle clone in vanilla js, back when that was popping off 
 - [**Tbbr**](https://github.com/doeixd/Tbbr) - A hastily made Chrome extension that sorts tabs by last recently accessed
 - [**UPC App**](https://github.com/doeixd/upc-app) - An electron app to aide an managing upc codes *(Work in progress)*
-- [**Network Manager TUI**](https://github.com/doeixd/nmtui-go) -  A TUI for managing NetworkManager (nmcli) Wi-Fi connections on Linux, built with Go & Bubble Tea.*(Work in progress)*
+- [**Network Manager TUI**](https://github.com/doeixd/nmtui-go) -  A TUI for managing NetworkManager (nmcli) Wi-Fi connections on Linux, built with Go & Bubble Tea.
