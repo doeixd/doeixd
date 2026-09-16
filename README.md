@@ -61,6 +61,8 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resu
 - [**Network Manager TUI**](https://github.com/doeixd/nmtui-go) -  A TUI for managing NetworkManager (nmcli) Wi-Fi connections on Linux, built with Go & Bubble Tea.
 - [**findfile**](https://github.com/doeixd/findfile) - Fast TUI file finder with fuzzy + semantic search and 30+ themes
 - [**shoe-tracker**](https://github.com/doeixd/shoe-tracker) - An app to track the use of your running shoes
+- [**better-astro-blog**](https://github.com/doeixd/better-astro-blog) - Astro blog template with faster navigation and richer metadata
 
 ## Research
 - [**reusable-operator-worlds**](https://github.com/doeixd/reusable-operator-worlds) - Benchmark for when reusable computation pays in neural lifetime learning
+- [**Open-Commerce-Protocol**](https://github.com/doeixd/Open-Commerce-Protocol) - Technical spec for an extensible HTTP API for digital commerce, with web3-native payments
