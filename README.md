@@ -5,18 +5,11 @@ When the code editor is closed, you'll find me perfecting recipes, exploring cit
 
 Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resume](https://hackmd.io/@patrickg/SkBq-_lV1l)
 
-## Recent
-
-- [**foldkit-plus**](https://github.com/doeixd/foldkit-plus) - Schema-first agent layer for Foldkit: one contract, exposed over WebMCP, MCP, or in-app agents
-- [**whatmovesyou**](https://github.com/doeixd/whatmovesyou) - Evidence-graded personality assessment, scored on-device
-- [**affe-agent**](https://github.com/doeixd/affe-agent) - Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups
-- [**whats-left-over**](https://github.com/doeixd/whats-left-over) - What U.S. households have left after essentials, by income group
-- [**reusable-operator-worlds**](https://github.com/doeixd/reusable-operator-worlds) - Benchmark for when reusable computation pays in neural lifetime learning
-- [**effect-atom-jsx**](https://github.com/doeixd/effect-atom-jsx) - Effect-native fine-grained JSX runtime with Layer-powered services and async atoms
-- [**feel-the-agi-archive**](https://github.com/doeixd/feel-the-agi-archive) - Interactive museum and time capsule of the scaling era
-
 ## Some libraries
 
+- [**foldkit-plus**](https://github.com/doeixd/foldkit-plus) - Schema-first agent layer for Foldkit: one contract, exposed over WebMCP, MCP, or in-app agents
+- [**affe-agent**](https://github.com/doeixd/affe-agent) - Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups
+- [**effect-atom-jsx**](https://github.com/doeixd/effect-atom-jsx) - Effect-native fine-grained JSX runtime with Layer-powered services and async atoms
 - [**csv-utils**](https://github.com/doeixd/csv-utils) - Type-safe CSV manipulation
 - [**effectively**](https://github.com/doeixd/effectively) - Lightweight effect system for TypeScript 
 - [**Invokers**](https://github.com/doeixd/invokers) - A superset of the new [Invokers](https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API) api / proposals.
@@ -43,8 +36,14 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resu
 
 
 ## Apps
+- [**whatmovesyou**](https://github.com/doeixd/whatmovesyou) - Evidence-graded personality assessment, scored on-device
+- [**whats-left-over**](https://github.com/doeixd/whats-left-over) - What U.S. households have left after essentials, by income group
+- [**feel-the-agi-archive**](https://github.com/doeixd/feel-the-agi-archive) - Interactive museum and time capsule of the scaling era
 - [**One Billion Checkboxes**](https://github.com/doeixd/one-billion-checkboxes-spacetime/tree/main?tab=readme-ov-file#one-billion-checkboxes) - A version of the popular [One Million Checkboxes](https://onemillioncheckboxes.com/) using SpacetimeDB and Solid 2.0
 - [**Wordle Vanilla**](https://github.com/doeixd/Wordle-Vanilla) - Wordle clone in vanilla js, back when that was popping off 
 - [**Tbbr**](https://github.com/doeixd/Tbbr) - A hastily made Chrome extension that sorts tabs by last recently accessed
 - [**UPC App**](https://github.com/doeixd/upc-app) - An electron app to aide an managing upc codes *(Work in progress)*
 - [**Network Manager TUI**](https://github.com/doeixd/nmtui-go) -  A TUI for managing NetworkManager (nmcli) Wi-Fi connections on Linux, built with Go & Bubble Tea.
+
+## Research
+- [**reusable-operator-worlds**](https://github.com/doeixd/reusable-operator-worlds) - Benchmark for when reusable computation pays in neural lifetime learning
