@@ -39,6 +39,7 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resu
 - [**whatmovesyou**](https://github.com/doeixd/whatmovesyou) - Evidence-graded personality assessment, scored on-device
 - [**whats-left-over**](https://github.com/doeixd/whats-left-over) - What U.S. households have left after essentials, by income group
 - [**feel-the-agi-archive**](https://github.com/doeixd/feel-the-agi-archive) - Interactive museum and time capsule of the scaling era
+- [**corps-place**](https://github.com/doeixd/corps-place) - DCI drum corps companion app: seasons, competitions, scores, and predictions
 - [**One Billion Checkboxes**](https://github.com/doeixd/one-billion-checkboxes-spacetime/tree/main?tab=readme-ov-file#one-billion-checkboxes) - A version of the popular [One Million Checkboxes](https://onemillioncheckboxes.com/) using SpacetimeDB and Solid 2.0
 - [**Wordle Vanilla**](https://github.com/doeixd/Wordle-Vanilla) - Wordle clone in vanilla js, back when that was popping off 
 - [**Tbbr**](https://github.com/doeixd/Tbbr) - A hastily made Chrome extension that sorts tabs by last recently accessed
