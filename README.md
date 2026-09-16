@@ -5,6 +5,16 @@ When the code editor is closed, you'll find me perfecting recipes, exploring cit
 
 Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resume](https://hackmd.io/@patrickg/SkBq-_lV1l)
 
+## Recent
+
+- [**foldkit-plus**](https://github.com/doeixd/foldkit-plus) - Schema-first agent layer for Foldkit: one contract, exposed over WebMCP, MCP, or in-app agents
+- [**whatmovesyou**](https://github.com/doeixd/whatmovesyou) - Evidence-graded personality assessment, scored on-device
+- [**affe-agent**](https://github.com/doeixd/affe-agent) - Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups
+- [**whats-left-over**](https://github.com/doeixd/whats-left-over) - What U.S. households have left after essentials, by income group
+- [**reusable-operator-worlds**](https://github.com/doeixd/reusable-operator-worlds) - Benchmark for when reusable computation pays in neural lifetime learning
+- [**effect-atom-jsx**](https://github.com/doeixd/effect-atom-jsx) - Effect-native fine-grained JSX runtime with Layer-powered services and async atoms
+- [**feel-the-agi-archive**](https://github.com/doeixd/feel-the-agi-archive) - Interactive museum and time capsule of the scaling era
+
 ## Some libraries
 
 - [**csv-utils**](https://github.com/doeixd/csv-utils) - Type-safe CSV manipulation
