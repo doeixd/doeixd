@@ -7,6 +7,7 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resu
 
 ## Some libraries
 
+- [**incremental**](https://github.com/doeixd/incremental) - Typed fold over object contributions: build an object piece by piece, know its exact shape at every step, and prove when it is complete
 - [**discern**](https://github.com/doeixd/discern) - Uncertainty-aware semantic control flow for Effect: type-safe patterns, policies, and routable procedures over DecisionModel
 - [**foldkit-plus**](https://github.com/doeixd/foldkit-plus) - Schema-first agent layer for Foldkit: one contract, exposed over WebMCP, MCP, or in-app agents
 - [**opencode-ralph-rlm**](https://github.com/doeixd/opencode-ralph-rlm) - OpenCode plugin: Ralph outer loop + RLM inner loop for iterative AI development
