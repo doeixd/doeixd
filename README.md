@@ -48,6 +48,7 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/patrick-wm-glenn/) | [Resu
 ## Agent skills
 - [**solid-skill**](https://github.com/doeixd/solid-skill) - Agent skills for SolidJS 1.x, Solid 2.x migration and API guidance, and SolidStart v2
 - [**writing-skill**](https://github.com/doeixd/writing-skill) - Agent skill for writing and editing blog posts with stronger voice, flow, and specificity
+- [**marketing-skills**](https://github.com/doeixd/marketing-skills) - Agent skill for evidence-grounded marketing: research, positioning, landing pages, ads, lifecycle, and analytics
 
 
 ## Apps
